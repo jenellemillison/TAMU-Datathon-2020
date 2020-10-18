@@ -1,0 +1,90 @@
+City,Movehub Rating,Purchase Power,Health Care,Pollution,Crime Rating,Quality of Life Rating
+New York,90.53,55.56,51.39,12.01,47.33,Life could be better
+Los Angeles,86.86,62.75,68.61,75.2,65.74,Life could be better
+Philadelphia,83.31,68.77,54.17,38.64,68.58,Life could be better
+Las Vegas,84.88,80.46,66.52,59.73,70.57,Life could be better
+Detroit,70.63,73.81,63.05,83.45,76.69,Life could be better
+Saint Petersburg,73.1,24.82,46.34,77.98,56.96,Life could be better
+Athens,76.78,26.05,46.11,27.44,57.49,Life could be better
+Rome,79.07,32.72,61.64,19.84,62.34,Life could be better
+Florence,76.63,35.31,67.11,29.44,39.58,Life could be better
+Bristol,79.66,39.76,88.89,36.22,42.71,Life could be better
+Brighton,80.61,50.56,58.33,50.25,33.12,Life could be better
+Dublin,90.45,50.13,41.12,30.54,48.31,Life could be better
+Lima,73.19,23.22,53.7,58.49,65.31,Life could be better
+Moscow,76.35,24.94,42.3,30.03,53.19,Life could be better
+Paris,95.92,47.08,83.33,59.18,53.75,Life could be better
+Cairo,67.93,11.9,56.48,86.16,48.81,Life could be better
+Belgrade,71.65,21.46,52.53,77.08,37.97,Life could be better
+Delhi,77.12,34.39,74.99,73.03,52.56,Life could be better
+Milan,81.9,43.43,71.36,22.09,56.2,Life could be better
+Lisbon,77.63,32.48,62.38,28.78,40.08,Life could be better
+Bogota,70.6,14.52,73.89,14.54,46.02,Life could be better
+London,100.0,53.17,69.53,57.95,50.14,Life could be better
+Warsaw,76.76,35.77,63.33,86.16,32.03,Life could be better
+Madrid,85.37,54.07,73.51,55.77,39.34,Life could be better
+Naples,76.27,35.38,41.67,12.01,56.67,Life could be better
+Nice,82.55,49.52,87.95,59.19,47.27,Life could be better
+Malaga,84.3,45.77,69.17,30.55,9.11,Life could be better
+Varna,71.11,20.34,50.23,80.84,36.46,Life could be better
+Johannesburg,84.08,53.99,59.98,47.39,83.93,Life could be better
+Houston,85.24,71.96,79.44,65.21,61.72,Life is good
+San Francisco,85.38,63.54,75.46,17.06,32.25,Life is good
+Indianapolis,84.52,80.72,36.66,82.08,30.21,Life is good
+Washington,81.74,56.61,64.44,30.55,51.43,Life is good
+Miami,84.43,57.79,64.44,22.45,64.85,Life is good
+Honolulu,81.31,58.54,57.03,30.28,44.14,Life is good
+Newark,84.97,84.39,79.72,62.14,30.21,Life is good
+Rochester,82.07,60.78,68.6,31.6,30.21,Life is good
+Birmingham,80.85,46.41,75.23,66.53,47.51,Life is good
+Vancouver,82.59,48.06,83.73,18.48,30.03,Life is good
+Manchester,81.89,62.31,61.42,0.0,24.2,Life is good
+Cambridge,82.15,54.76,81.48,57.18,24.22,Life is good
+Melbourne,92.58,55.48,76.67,30.28,48.75,Life is good
+Vienna,81.84,51.21,79.86,22.39,27.45,Life is good
+Venice,78.82,45.69,72.67,11.48,21.48,Life is good
+Wellington,81.06,49.11,73.72,30.55,27.38,Life is good
+Oxford,80.94,50.33,66.2,11.48,24.22,Life is good
+Nottingham,80.42,53.57,79.63,24.54,44.38,Life is good
+Glasgow,84.23,85.0,90.55,0.0,60.0,Life is good
+Aberdeen,81.89,49.7,82.86,34.31,24.22,Life is good
+Leeds,82.57,63.88,81.48,18.48,28.91,Life is good
+Leicester,83.36,71.88,60.64,18.04,24.22,Life is good
+Toronto,88.42,61.44,66.11,8.95,27.4,Life is good
+Edinburgh,83.92,58.77,60.64,13.94,30.51,Life is good
+Brisbane,87.63,53.72,88.89,22.19,45.84,Life is good
+Perth,95.38,62.11,80.56,23.53,50.01,Life is good
+Stockholm,82.85,51.03,82.5,13.93,25.62,Life is good
+Montreal,89.28,66.99,66.77,6.27,31.63,Life is good
+Amsterdam,84.0,47.18,68.06,53.42,29.76,Life is good
+Darwin,79.63,49.51,75.28,6.78,32.8,Life is good
+Chicago,83.01,66.77,62.92,22.98,54.52,Doesn't get any better!
+Phoenix,86.37,80.54,64.9,38.77,41.41,Doesn't get any better!
+San Antonio,83.76,74.78,60.97,59.19,51.41,Doesn't get any better!
+San Diego,83.29,71.37,67.22,32.64,39.55,Doesn't get any better!
+Dallas,84.71,76.18,69.99,83.89,59.9,Doesn't get any better!
+Austin,84.86,69.22,73.61,28.84,42.5,Doesn't get any better!
+Charlotte,84.46,77.18,72.08,67.05,30.21,Doesn't get any better!
+Boston,82.2,59.28,78.04,61.77,40.69,Doesn't get any better!
+Seattle,85.38,78.46,75.46,32.9,42.03,Doesn't get any better!
+Baltimore,84.28,78.78,72.08,77.98,58.85,Doesn't get any better!
+Nashville,80.61,80.3,60.3,0.0,25.5,Doesn't get any better!
+Portland,84.23,72.6,72.77,31.98,39.22,Doesn't get any better!
+Atlanta,84.92,80.83,61.11,63.09,56.04,Doesn't get any better!
+Minneapolis,83.47,69.91,62.35,77.94,40.36,Doesn't get any better!
+New Orleans,82.56,66.32,65.83,14.76,42.19,Doesn't get any better!
+Tampa,84.27,75.72,56.94,49.89,60.73,Doesn't get any better!
+Saint Louis,85.25,80.4,77.29,31.33,78.13,Doesn't get any better!
+Orlando,84.39,71.07,76.01,70.75,55.07,Doesn't get any better!
+Hamilton,81.34,56.52,86.67,81.68,35.68,Doesn't get any better!
+Asheville,83.17,70.51,79.02,30.55,30.21,Doesn't get any better!
+Geneva,83.27,61.22,74.88,29.43,54.36,Doesn't get any better!
+Berlin,89.54,68.72,65.48,16.05,24.18,Doesn't get any better!
+Ottawa,87.69,91.85,66.02,33.55,22.25,Doesn't get any better!
+Belfast,82.15,52.8,33.33,29.24,34.06,Doesn't get any better!
+Dresden,84.75,82.6,78.29,16.89,15.34,Doesn't get any better!
+Edmonton,85.94,67.19,78.83,22.79,31.14,Doesn't get any better!
+Hamburg,84.66,61.13,82.41,67.78,25.52,Doesn't get any better!
+Liverpool,81.23,53.78,82.86,55.35,28.7,Doesn't get any better!
+Victoria,81.44,52.91,79.63,68.93,42.45,Doesn't get any better!
+Cologne,82.18,59.18,67.88,68.41,27.08,Doesn't get any better!
